@@ -1,0 +1,28 @@
+_repo: The-Rest-Hollow-Mystery_40416
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40416-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Porter, Rebecca N. (Rebecca Newman)
+    birthdate: 1883
+    gutenberg_agent_id: '40614'
+    url: http://www.gutenberg.org/2009/agents/40614
+description: ''
+gutenberg_issued: '2012-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amnesiacs -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+title: The Rest Hollow Mystery
+url: http://www.gutenberg.org/ebooks/40416
